@@ -38,6 +38,12 @@
     </url>
   
     <url>
+      <loc>https://mtsolucoestest.netlify.app/vestidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://mtsolucoestest.netlify.app/mt-solucoes</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
